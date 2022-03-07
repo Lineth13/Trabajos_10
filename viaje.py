@@ -1,0 +1,6 @@
+print("este es mi primer codigo 25 de enero de 2022")
+print("este es mi nuevo aporte 2 de febrero de 2022")
+print("este es mi tercer aporte 10 de febrero de 2022")
+print("este es mi cuarto aporte 20 de febrero de 2022")
+print("este es mi quinto aporte 28 de febrero de 2022")
+print("este es mi aporte soy marquez")
